@@ -1,0 +1,327 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/muhammadputraharifinpane/My project/Unity.VisualScripting.Flow.csproj": {}
+  },
+  "projects": {
+    "/Users/muhammadputraharifinpane/My project/Unity.VisualScripting.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadputraharifinpane/My project/Unity.VisualScripting.Core.csproj",
+        "projectName": "Unity.VisualScripting.Core",
+        "projectPath": "/Users/muhammadputraharifinpane/My project/Unity.VisualScripting.Core.csproj",
+        "packagesPath": "/Users/muhammadputraharifinpane/.nuget/packages/",
+        "outputPath": "/Users/muhammadputraharifinpane/My project/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadputraharifinpane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/muhammadputraharifinpane/My project/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEditor.UI.csproj"
+              },
+              "/Users/muhammadputraharifinpane/My project/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadputraharifinpane/My project/Unity.VisualScripting.Flow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadputraharifinpane/My project/Unity.VisualScripting.Flow.csproj",
+        "projectName": "Unity.VisualScripting.Flow",
+        "projectPath": "/Users/muhammadputraharifinpane/My project/Unity.VisualScripting.Flow.csproj",
+        "packagesPath": "/Users/muhammadputraharifinpane/.nuget/packages/",
+        "outputPath": "/Users/muhammadputraharifinpane/My project/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadputraharifinpane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/muhammadputraharifinpane/My project/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/muhammadputraharifinpane/My project/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/muhammadputraharifinpane/My project/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEditor.UI.csproj"
+              },
+              "/Users/muhammadputraharifinpane/My project/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadputraharifinpane/My project/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadputraharifinpane/My project/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/Users/muhammadputraharifinpane/.nuget/packages/",
+        "outputPath": "/Users/muhammadputraharifinpane/My project/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadputraharifinpane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/muhammadputraharifinpane/My project/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadputraharifinpane/My project/UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadputraharifinpane/My project/UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEditor.UI.csproj",
+        "packagesPath": "/Users/muhammadputraharifinpane/.nuget/packages/",
+        "outputPath": "/Users/muhammadputraharifinpane/My project/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadputraharifinpane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/muhammadputraharifinpane/My project/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/muhammadputraharifinpane/My project/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/muhammadputraharifinpane/My project/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadputraharifinpane/My project/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadputraharifinpane/My project/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/Users/muhammadputraharifinpane/.nuget/packages/",
+        "outputPath": "/Users/muhammadputraharifinpane/My project/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadputraharifinpane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadputraharifinpane/My project/UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadputraharifinpane/My project/UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "/Users/muhammadputraharifinpane/My project/UnityEngine.UI.csproj",
+        "packagesPath": "/Users/muhammadputraharifinpane/.nuget/packages/",
+        "outputPath": "/Users/muhammadputraharifinpane/My project/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadputraharifinpane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
